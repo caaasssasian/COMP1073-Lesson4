@@ -1,15 +1,15 @@
 {
-  "name": "comp1073-w2017-lesson2",
+  "name": "N",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Cassidy Ho <cassidyctho@hotmail.com>"
   ],
-  "description": "demo app for lesson 2",
+  "description": "demo app for lesson 4",
   "main": "",
   "keywords": [
     "JavaScript"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/caaasssasian/COMP1073-Lesson4",
   "ignore": [
     "**/.*",
     "node_modules",
